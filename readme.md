@@ -42,4 +42,6 @@ _Gameplay Instructions_
 
 *Au Revoir xox*
 
-![](https://postimg.org/image/hvgifvkzx/)
+[Play Game](https://antz84.github.io/game/)
+
+(https://postimg.org/image/hvgifvkzx/)
