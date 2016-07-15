@@ -1,3 +1,145 @@
+body {
+  background-image: url(http://thekingsheadstutton.co.uk/wp-content/uploads/2015/06/france_flag_by_think0-d563k6e.jpg);
+  background-size: 100%;
+  background-repeat: repeat-y;
+  font-family: sans-serif;
+  text-align: center;
+}
+
 h1 {
-color: red;
+font-size: 35px;
+font-family: serif;
+color: #B20200;
+margin-bottom: 20px;
+}
+
+#reset {
+  height: auto;
+  width: auto;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  align-items: center;
+  color: #003366;
+  background-color: #FFFFFF;
+  font-family: cursive;
+  font-size: 1.6em;
+  font-style: italic;
+  text-align: center;
+  display: inline-block;
+}
+
+#mainDiv {
+  margin: 0 auto;
+  align: center;
+  height: 400px;
+  width: 400px;
+  background-color: none;
+  text-align: center;
+  display: inline-block;
+}
+
+.smallDiv {
+  height: 32%;
+  width: 32%;
+  float: left;
+  text-align: center;
+  background-color: #FFFFFF;
+}
+
+#d1 {
+  margin-top: 0%;
+  margin-right: 1%;
+  margin-bottom: 1%;
+  margin-left: 0%;
+}
+
+#d2 {
+  margin-top: 0%;
+  margin-right: 1%;
+  margin-bottom: 1%;
+  margin-left: 1%;
+}
+
+#d3 {
+  margin-top: 0%;
+  margin-right: 0%;
+  margin-bottom: 1%;
+  margin-left: 1%;
+}
+
+#d4 {
+  margin-top: 1%;
+  margin-right: 1%;
+  margin-bottom: 1%;
+  margin-left: 0%;
+}
+
+#d5 {
+  margin-top: 1%;
+  margin-right: 1%;
+  margin-bottom: 1%;
+  margin-left: 1%;
+}
+
+#d6 {
+  margin-top: 1%;
+  margin-right: 0%;
+  margin-bottom: 1%;
+  margin-left: 1%;
+}
+
+#d7 {
+  margin-top: 1%;
+  margin-right: 1%;
+  margin-bottom: 0%;
+  margin-left: 0%;
+}
+
+#d8 {
+  margin-top: 1%;
+  margin-right: 1%;
+  margin-bottom: 0%;
+  margin-left: 1%;
+}
+
+#d9 {
+  margin-top: 1%;
+  margin-right: 0%;
+  margin-bottom: 0%;
+  margin-left: 1%;
+}
+
+/*  unfinished features ...
+
+p {
+  font-family: cursive;
+  font-size: 1.7em;
+  font-style: italic;
+}
+
+#left {
+height: 80px;
+width: 130px;
+margin-bottom: 200px;
+margin-right: 10%;
+align-items: center;
+color: blue;
+color: #003366;
+background-color: #FFFFFF;
+font-family: cursive;
+font-size: 1.2em;
+font-style: italic;
+text-align: center;
+border: 2px;
+text-align: center;
+display: inline-block;
+}
+
+#right {
+margin-left: 10%;
+height: 80px;
+width: 130px;
+background-color: white;
+text-align: center;
+display: inline-flex;
 }
