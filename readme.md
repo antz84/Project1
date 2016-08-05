@@ -3,7 +3,7 @@
 ##General Assembly WDI Project 1
 *15 July 2016*
 
-![image](https://postimg.org/image/nxo56d9fx/)
+![image](https://s6.postimg.org/ed4ijhk41/Tic_Tac_Toe_HD_i_Tunes_Artwork.png)
 
 _Bonjour_
 -Tic tac toe is my first project as part of WDI.
@@ -44,4 +44,4 @@ _Gameplay Instructions_
 
 [Play Le TicTacToe](https://antz84.github.io/game/)
 
-![image](https://postimg.org/image/hvgifvkzx/)
+![image](https://s6.postimg.org/afh8u2xan/Eiffel.jpg)
